@@ -7,6 +7,7 @@
 - ❤️ &nbsp; Passionate about creating innovative mobile applications and exploring the endless possibilities in AI and ML.
 - 💬 &nbsp; Feel free to ask me anything [here](https://github.com/difadlyaulhaq/difadlyaulhaq/issues).
 - 📫 &nbsp; How to reach me: **difadlyaulhaq2@gmail.com**
+- 🌐 &nbsp; feel free to stalk me [here](https://mom-im-on-internet.vercel.app/)
 
 ### 🛠 &nbsp;Languages and Tools
 
