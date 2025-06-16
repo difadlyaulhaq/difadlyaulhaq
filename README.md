@@ -3,7 +3,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🎓 &nbsp; I'm an Informatics student at Amikom Yogyakarta University.
-- 🌱 &nbsp; Currently specializing in **Mobile App Development (Flutter)**, **Machine Learning**, **AI**, **TensorFlow**, **Computer Vision**, and **Web Development (PHP & Bootstrap)**.
+- 🌱 &nbsp; Currently specializing in **Mobile App Development (Flutter)**, **Machine Learning**, **AI**, **TensorFlow**, **Computer Vision**, and **Web Development (PHP, Astro js, svelte & Bootstrap)**.
 - ❤️ &nbsp; Passionate about creating innovative mobile applications and exploring the endless possibilities in AI and ML.
 - 💬 &nbsp; Feel free to ask me anything [here](https://github.com/difadlyaulhaq/difadlyaulhaq/issues).
 - 📫 &nbsp; How to reach me: **difadlyaulhaq2@gmail.com**
