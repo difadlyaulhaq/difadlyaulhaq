@@ -95,27 +95,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```yaml
-Current Projects:
-  - 📱 Building innovative Flutter applications
-  - 🤖 Exploring advanced ML algorithms
-  - 🧠 Developing Computer Vision solutions
-  - 🌐 Creating modern web experiences
-  - 📚 Learning cutting-edge AI technologies
-
-2025 Goals:
-  - 🚀 Launch 3 major mobile applications
-  - 🏆 Contribute to open-source AI projects  
-  - 📖 Master advanced TensorFlow techniques
-  - 🌟 Build a strong developer community
-  - 💼 Land an amazing tech internship
-```
-
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
