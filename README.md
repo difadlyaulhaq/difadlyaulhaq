@@ -11,12 +11,11 @@
 
 🎓 Student at Amikom Yogyakarta University studying Informatics
 🌱 Currently Mastering:
-
-📱 Mobile App Development with Flutter
-🤖 Machine Learning & AI Technologies
-🧠 TensorFlow & Deep Learning
-👁️ Computer Vision Applications
-🌐 Web Development (PHP, Astro.js, Svelte, Bootstrap)
+  - 📱 Mobile App Development with Flutter
+  - 🤖 Machine Learning & AI Technologies
+  - 🧠 TensorFlow & Deep Learning
+  - 👁️ Computer Vision Applications
+  - 🌐 Web Development (PHP, Astro.js, Svelte, Bootstrap)
 
 ❤️ Passionate about creating innovative mobile applications and exploring AI/ML possibilities
 <br clear="both"/>
