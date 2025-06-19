@@ -20,7 +20,7 @@
 ❤️ Passionate about creating innovative mobile applications and exploring AI/ML possibilities
 💬 Let's Connect! Ask me anything about tech, development, or life in general
 📫 Reach me at: difadlyaulhaq2@gmail.com
-🌐 Portfolio: Check out my work here!
+🌐 Portfolio: [https://mom-im-on-internet.vercel.app/](Check out my work here!)
 <br clear="both"/>
 
 ## 🛠️ Tech Stack
