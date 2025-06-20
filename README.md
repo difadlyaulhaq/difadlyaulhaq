@@ -37,7 +37,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=difadlyaulhaq&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img src="![Difa's GitHub Streak](https://streak-stats.demolab.com/?user=difadlyaulhaq&theme=radical&hide_border=false)
+/>
 </div>
 
 ## 🤝 Connect With Me
