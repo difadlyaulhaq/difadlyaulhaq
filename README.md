@@ -13,7 +13,7 @@
 🌱 Specializing in **Flutter**, **AI/ML**, **TensorFlow**, **Computer Vision**  
 ❤️ Passionate about creating innovative mobile apps  
 📫 **difadlyaulhaq2@gmail.com**  
-🌐 **[Portfolio](https://mom-im-on-internet.vercel.app/)**
+🌐 **[Portfolio](https://difa-porto.vercel.app/)**
 
 <br clear="both"/>
 
